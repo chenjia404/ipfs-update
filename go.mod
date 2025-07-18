@@ -1,4 +1,4 @@
-module github.com/chenjia404/ipfs-update
+module github.com/ipfs/ipfs-update
 
 go 1.23
 
